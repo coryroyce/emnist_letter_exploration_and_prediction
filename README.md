@@ -7,4 +7,5 @@ Explore the EMNIST letter dataset with various dimensionality reduction techniqu
 - Apply various dimensionality reduction techniques with visualizations
 - Create a an ML model for prediction
 - Take hand drawn user inputs to create live predictions
+- Visualize prediction bar charts
 
