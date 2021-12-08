@@ -9,4 +9,7 @@ Explore the EMNIST letter dataset with various dimensionality reduction techniqu
 - Take hand drawn user inputs to create live predictions
 - Visualize prediction bar charts
 
+# Reference
+[Original EMNSIT Paper](https://arxiv.org/pdf/1702.05373.pdf)
+
 
