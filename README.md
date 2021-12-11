@@ -3,13 +3,13 @@
 Explore the EMNIST letter dataset with various dimensionality reduction techniques and visualizations, and then create an ML model to predict handwritten letters.
 
 # Project Overview
-1. Load and select subset of EMNIST Letter dataset
-1. Apply various dimensionality reduction techniques with visualizations
-1. Create an ML model for prediction
-1. Take hand drawn user inputs to create live predictions
-1. Create interactive web app deployment
+1. EMNIST Letter Dataset
+1. Dimensionality Reduction Techniques
+1. ML Model
+1. User Application
+1. Web Deployment
 
-# Loading EMNIST Dataset
+# Loading EMNIST Letter Dataset
 When exploring various was to import the EMNIST dataset we came across a pre-made Python library called [emnist](https://pypi.org/project/emnist/) which made loading the various sets of data into our project straight forward and simple. After a few custom functions we were able to generate quick visualizations of the letters along with their labels.
 
 ![Letter Data Visualization with Label](https://github.com/coryroyce/emnist_letter_exploration_and_prediction/blob/main/reference/labeled_image_A.png)
@@ -26,14 +26,20 @@ After creating a few different versions of a Tensorflow Deep Neural Net we ultim
 
 ![Model Architecture - Image from cdeotte/25-million-images-0-99757-mnist](https://github.com/coryroyce/emnist_letter_exploration_and_prediction/blob/main/reference/model_architecture_diagram.png)
 
-# User Streamlit Application
-To create an interactive experience for users to draw handwritten digits and provide model prediction in real time, we used [Streamlit](https://streamlit.io/) to create our front end application. This demo can easily be run in out [Streamlit_App.ipynb](https://github.com/coryroyce/emnist_letter_exploration_and_prediction/blob/main/streamlit_application/Streamlit_App.ipynb) Colab notebook.
+# User Application
+To create an interactive experience for users to draw handwritten digits and provide model prediction in real time, we used [Streamlit](https://streamlit.io/) to create our [front end application](https://github.com/coryroyce/emnist_letter_exploration_and_prediction/tree/main/streamlit_application). This demo can easily be run in out [Streamlit_App.ipynb](https://github.com/coryroyce/emnist_letter_exploration_and_prediction/blob/main/streamlit_application/Streamlit_App.ipynb) Colab notebook.
 
-![App Example]()
+![App Example](https://github.com/coryroyce/emnist_letter_exploration_and_prediction/blob/main/reference/app_demo_image.png)
 
+# Web Deployment
+
+To make our Letter drawing prediction application as accessible as possible we created a self contained web app and deployed it using [Heroku](https://dashboard.heroku.com/apps) which can be found in the [heroku_app folder](https://github.com/coryroyce/emnist_letter_exploration_and_prediction/tree/main/heroku_app).
+
+[Initial Demo Link](https://letter-prediction.herokuapp.com/)
 
 # Contributors
-...
+coryroyce
+
 
 # Reference
 
