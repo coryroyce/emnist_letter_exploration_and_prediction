@@ -2,6 +2,12 @@
 
 Explore the EMNIST letter dataset with various dimensionality reduction techniques and visualizations, and then create an ML model to predict handwritten letters.
 
+[Project Writeup](https://github.com/coryroyce/emnist_letter_exploration_and_prediction/blob/main/reference/Project_Report.pdf)
+
+[Project Presentation Slides](https://github.com/coryroyce/emnist_letter_exploration_and_prediction/blob/main/reference/Final_Presentation.pptx)
+
+[Project Presentation Video](https://www.youtube.com/watch?v=wI2hDtuRbUw&ab_channel=AbrahamKong)
+
 # Project Overview
 1. EMNIST Letter Dataset
 1. Dimensionality Reduction Techniques
@@ -39,6 +45,9 @@ To make our Letter drawing prediction application as accessible as possible we c
 
 # Contributors
 coryroyce
+akanksha0911
+AbrahamKong
+Karishma-Kuria
 
 
 # Reference
