@@ -18,9 +18,14 @@ When exploring various was to import the EMNIST dataset we came across a pre-mad
 # Dimensionality Reduction Techniques
 During the data exploration stage we applied several dimensionality reduction techniques to better visualize how the letter images could be clustered together. The highlights are PCA (Principal Component Analysis) which is a good baseline technique and UMAP (Uniform Manifold Approximation and Projection) which provide clearer clusters and better separation. Images shown below and full code can be found in the [dev_notebooks folder](https://github.com/coryroyce/emnist_letter_exploration_and_prediction/blob/main/dev_notebooks/Letter_Exploration_and_Classification_V04.ipynb).
 
-![PCA of Letters](https://github.com/coryroyce/emnist_letter_exploration_and_prediction/blob/main/reference/labeled_image_A.png)
+![PCA of Letters](https://github.com/coryroyce/emnist_letter_exploration_and_prediction/blob/main/reference/PCA_of_letters.png)
 
-![UMAP of Letters](https://github.com/coryroyce/emnist_letter_exploration_and_prediction/blob/main/reference/labeled_image_A.png)
+![UMAP of Letters](https://github.com/coryroyce/emnist_letter_exploration_and_prediction/blob/main/reference/UMAP_of_letters.png)
+
+# ML Model
+After creating a few different versions of a Tensorflow Deep Neural Net we ultimately used an architecture that did well in a [Kaggle competition](https://www.kaggle.com/cdeotte/25-million-images-0-99757-mnist) with the 0-9 MNIST digit data set.
+
+![Model Architecture - Image from cdeotte/25-million-images-0-99757-mnist]()
 
 # Contributors
 ...
@@ -52,3 +57,5 @@ Example Data Visualizations for Images from [Kaggle Notebook](https://www.kaggle
 Image Classification in 10 Minutes with MNIST Dataset [Article](https://towardsdatascience.com/image-classification-in-10-minutes-with-mnist-dataset-54c35b77a38d)
 
 How to Develop a CNN for MNIST [Article](https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/)
+
+Kaggle Competition with MNIST 0-9 digits [Article](https://www.kaggle.com/cdeotte/25-million-images-0-99757-mnist)
