@@ -15,7 +15,15 @@ When exploring various was to import the EMNIST dataset we came across a pre-mad
 
 ![Letter Data Visualization with Label](https://github.com/coryroyce/emnist_letter_exploration_and_prediction/blob/main/reference/labeled_image_A.png)
 
+# Dimensionality Reduction Techniques
+During the data exploration stage we applied several dimensionality reduction techniques to better visualize how the letter images could be clustered together. The highlights are PCA (Principal Component Analysis) which is a good baseline technique and UMAP (Uniform Manifold Approximation and Projection) which provide clearer clusters and better separation. Images shown below and full code can be found in the [dev_notebooks folder](https://github.com/coryroyce/emnist_letter_exploration_and_prediction/blob/main/dev_notebooks/Letter_Exploration_and_Classification_V04.ipynb).
 
+![PCA of Letters](https://github.com/coryroyce/emnist_letter_exploration_and_prediction/blob/main/reference/labeled_image_A.png)
+
+![UMAP of Letters](https://github.com/coryroyce/emnist_letter_exploration_and_prediction/blob/main/reference/labeled_image_A.png)
+
+# Contributors
+...
 
 # Reference
 
