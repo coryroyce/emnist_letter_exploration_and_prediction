@@ -7,7 +7,6 @@ Explore the EMNIST letter dataset with various dimensionality reduction techniqu
 1. Apply various dimensionality reduction techniques with visualizations
 1. Create an ML model for prediction
 1. Take hand drawn user inputs to create live predictions
-1. Visualize prediction bar charts
 1. Create interactive web app deployment
 
 # Loading EMNIST Dataset
@@ -25,7 +24,13 @@ During the data exploration stage we applied several dimensionality reduction te
 # ML Model
 After creating a few different versions of a Tensorflow Deep Neural Net we ultimately used an architecture that did well in a [Kaggle competition](https://www.kaggle.com/cdeotte/25-million-images-0-99757-mnist) with the 0-9 MNIST digit data set.
 
-![Model Architecture - Image from cdeotte/25-million-images-0-99757-mnist]()
+![Model Architecture - Image from cdeotte/25-million-images-0-99757-mnist](https://github.com/coryroyce/emnist_letter_exploration_and_prediction/blob/main/reference/model_architecture_diagram.png)
+
+# User Streamlit Application
+To create an interactive experience for users to draw handwritten digits and provide model prediction in real time, we used [Streamlit](https://streamlit.io/) to create our front end application. This demo can easily be run in out [Streamlit_App.ipynb](https://github.com/coryroyce/emnist_letter_exploration_and_prediction/blob/main/streamlit_application/Streamlit_App.ipynb) Colab notebook.
+
+![App Example]()
+
 
 # Contributors
 ...
