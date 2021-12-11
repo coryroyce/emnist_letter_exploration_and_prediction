@@ -4,7 +4,7 @@ Explore the EMNIST letter dataset with various dimensionality reduction techniqu
 
 [Project Writeup](https://github.com/coryroyce/emnist_letter_exploration_and_prediction/blob/main/reference/Project_Report.pdf)
 
-[Project Presentation Slides](https://github.com/coryroyce/emnist_letter_exploration_and_prediction/blob/main/reference/Final_Presentation.pptx)
+[Project Presentation Slides](https://github.com/coryroyce/emnist_letter_exploration_and_prediction/blob/main/reference/Final_Presentation.pdf)
 
 [Project Presentation Video](https://www.youtube.com/watch?v=wI2hDtuRbUw&ab_channel=AbrahamKong)
 
