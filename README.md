@@ -13,7 +13,7 @@ Explore the EMNIST letter dataset with various dimensionality reduction techniqu
 # Loading EMNIST Dataset
 When exploring various was to import the EMNIST dataset we came across a pre-made Python library called [emnist](https://pypi.org/project/emnist/) which made loading the various sets of data into our project straight forward and simple. After a few custom functions we were able to generate quick visualizations of the letters along with their labels.
 
-![Letter Data Visualization with Label]()
+![Letter Data Visualization with Label](https://github.com/coryroyce/emnist_letter_exploration_and_prediction/blob/main/reference/labeled_image_A.png)
 
 
 
