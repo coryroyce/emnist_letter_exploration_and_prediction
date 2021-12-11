@@ -8,6 +8,10 @@ Explore the EMNIST letter dataset with various dimensionality reduction techniqu
 
 [Project Presentation Video](https://www.youtube.com/watch?v=wI2hDtuRbUw&ab_channel=AbrahamKong)
 
+[Heroku Demo Link - may be in active in the future](https://letter-prediction.herokuapp.com/)
+
+[Colab Demo - same as Heroku App but can be run straight from Colab](https://github.com/coryroyce/emnist_letter_exploration_and_prediction/blob/main/streamlit_application/Streamlit_App.ipynb)
+
 # Project Overview
 1. EMNIST Letter Dataset
 1. Dimensionality Reduction Techniques
