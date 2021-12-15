@@ -56,6 +56,12 @@ Karishma-Kuria
 
 # Reference
 
+Live Demo Video: https://youtu.be/wI2hDtuRbUw
+
+Project PPT Link: https://docs.google.com/presentation/d/1svfLKvYqRFLc2mmICwIRXpxxdTbY63B64NXi0cnEuyM/edit#slide=id.g106ebbdb28d_0_51
+
+Project Report Link: https://docs.google.com/document/d/1S3f0IWZUfYTdzhxm7Hy8ESF2y3pgSkd_AvRUsdQ6OI0
+
 ## Data Set References
 
 [Original EMNIST Paper](https://arxiv.org/pdf/1702.05373.pdf)
